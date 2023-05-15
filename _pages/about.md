@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://disco.ethz.ch/members/yvonlanthen'>ETH Zurich</a>. 
+subtitle: # <a href='https://disco.ethz.ch/members/yvonlanthen'>ETH Zurich</a>. 
 
 profile:
   align: right

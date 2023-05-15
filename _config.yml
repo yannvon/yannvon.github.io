@@ -15,7 +15,7 @@ footer_text: >
 keywords: blockchain, distributed computing, digital democracy, dao  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌱  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yannvon.github.io # the base hostname & protocol for your site
 baseurl: /home # the subpath of your site, e.g. /blog/
@@ -105,8 +105,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-   Feel free to reach out to me with questions or collaboration opportunities.  
-
+    Don't hesitate to contact me if you have any questions or are interested in potential collaboration.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------

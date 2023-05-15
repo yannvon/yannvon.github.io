@@ -1,14 +1,17 @@
 "FC":
   url: https://fc23.ifca.ai/
-  color: "#21369f"
+  color: "#e76f51"
 
 "CoDecFin@FC":
   url: https://fc23.ifca.ai/codecfin/
-  color: "#213600"
+  color: "#f4a261"
 
 "SSS":
   url: sss2022.limos.fr/
-  color: "#210000"
+  color: "#e9c46a"
+
+"arXiv":
+  color: "#2a9d8f"
 
 
 "PhysRev":
