@@ -12,15 +12,15 @@
       institution: ETH, Zurich, Switzerland
       year: 2021-
       description:
-        - Advised by <a href="https://disco.ethz.ch/members/wroger"> Roger Wattenhofer </a> at the <a href="https://disco.ethz.ch"> Distributed Computing Group </a>.
+        - Advised by <a href="https://disco.ethz.ch/members/wroger"> Roger Wattenhofer </a> at the <a href="https://disco.ethz.ch"> Distributed Computing Group</a>.
         - Organization of the <a href="https://disco.ethz.ch/courses/distsys"> Distributed Systems</a> Lecture.
-        - Supervision of Bachelor and Master <a href="https://disco.ethz.ch/members/yvonlanthen"> theses </a>.
+        - Supervision of Bachelor and Master <a href="https://disco.ethz.ch/members/yvonlanthen"> theses</a>.
     - title: Masters Degree
       institution: EPFL, Lausanne, Switzerland
       year: 2021
       description:
         - GPA 5.80/6.00
-        - Team Lead at the EPFL Rocket Team 2020
+        - Team Lead at the <a href="https://epflrocketteam.ch"> EPFL Rocket Team</a> 2020.
         - Reasearch Assistant in <a href="https://people.epfl.ch/rachid.guerraoui/?lang=en"> Rachid Guerraoui</a>'s <a href="https://dcl.epfl.ch"> Distirbuted Computing Lab</a>.
         - Teaching Assistant for Computer Networks and Circuits and Systems II.
     - title: Bachelors Degree Final Year
@@ -28,7 +28,7 @@
       year: 2018
       description:
         - GPA 4.00/4.00
-        - Teaching Assistant for Scala Courses.
+        - Teaching Assistant for the Scala Center's <a href="https://www.coursera.org/specializations/scala?#courses"> Functional Programming Courses</a> on Coursera.
     - title: Bachelors Degree
       institution: EPFL, Lausanne, Switzerland
       year: 2018
@@ -37,7 +37,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Summer Research Fellow
+    - title: <a href="https://research.protocol.ai/authors/yann-vonlanthen/"> Summer Research Fellow</a>
       institution: ConsensusLab, Protocol Labs
       year: 2022
       description:

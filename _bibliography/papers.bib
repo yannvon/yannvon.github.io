@@ -15,10 +15,14 @@
   timestamp = {Fri, 09 Aug 2019 12:15:56 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1908-01738.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  abbr={arXiv}
+  abbr={arXiv},
+  arxiv={1908.01738},
+  abstract={"Byzantine reliable broadcast is a powerful primitive that allows a set of processes to agree on a message from a designated sender, even if some processes (including the sender) are Byzantine. Existing broadcast protocols for this setting scale poorly, as they typically build on quorum systems with strong intersection guarantees, which results in linear per-process communication and computation complexity.
+We generalize the Byzantine reliable broadcast abstraction to the probabilistic setting, allowing each of its properties to be violated with a fixed, arbitrarily small probability. We leverage these relaxed guarantees in a protocol where we replace quorums with stochastic samples. Compared to quorums, samples are significantly smaller in size, leading to a more scalable design. We obtain the first Byzantine reliable broadcast protocol with logarithmic per-process communication and computation complexity.
+We conduct a complete and thorough analysis of our protocol, deriving bounds on the probability of each of its properties being compromised. During our analysis, we introduce a novel general technique we call adversary decorators. Adversary decorators allow us to make claims about the optimal strategy of the Byzantine adversary without having to make any additional assumptions. We also introduce Threshold Contagion, a model of message propagation through a system with Byzantine processes. To the best of our knowledge, this is the first formal analysis of a probabilistic broadcast protocol in the Byzantine fault model. We show numerically that practically negligible failure probabilities can be achieved with realistic security parameters. "}
 }
 
-@InProceedings{10.1007/978-3-031-21017-4_20,
+@InProceedings{sliwinski2020cod,
 author="Sliwinski, Jakub
 and Vonlanthen, Yann
 and Wattenhofer, Roger",
@@ -27,33 +31,44 @@ and Petit, Franck
 and Altisen, Karine
 and Di Luna, Giuseppe Antonio
 and Fernandez Anta, Antonio",
-title="Consensus on Demand",
-booktitle="Stabilization, Safety, and Security of Distributed Systems",
+title="Consensus on Demand",
+booktitle="24th International Symposium on Stabilization, Safety, and Security of Distributed Systems, Clermont-Ferrand, France",
 year="2022",
 publisher="Springer International Publishing",
 address="Cham",
 pages="299--313",
-abstract="Digital money can be implemented efficiently by avoiding consensus. However, no-consensus designs are fundamentally limited, as they cannot support general smart contracts, and similarly they cannot deal with conflicting transactions.",
+abstract="Digital money can be implemented efficiently by avoiding consensus. However, no-consensus implementations have drawbacks, as they cannot support smart contracts, and (even more fundamentally) they cannot deal with conflicting transactions. We present a novel protocol that combines the benefits of an asynchronous, broadcast-based digital currency, with the capacity to perform consensus. This is achieved by selectively performing consensus a posteriori, i.e., only when absolutely necessary. Our on-demand consensus comes at the price of restricting the Byzantine participants to be less than a one-fifth minority in the system, which is the optimal threshold. We formally prove the correctness of our system and present an open-source implementation, which inherits many features from the Ethereum ecosystem. ",
 isbn="978-3-031-21017-4",
-abbr="SSS"
+abbr="SSS",
+arxiv="2202.03756",
+eprint="2202.03756",
+slides="cod.pdf",
+poster="cod_poster.pdf"
 }
 
-@misc{feichtinger2023hidden,
-      title={The Hidden Shortcomings of (D)AOs -- An Empirical Study of On-Chain Governance}, 
+@InProceedings{feichtinger2023hidden,
+      title={The Hidden Shortcomings of (D)AOs - An Empirical Study of On-Chain Governance}, 
       author={Rainer Feichtinger and Robin Fritsch and Yann Vonlanthen and Roger Wattenhofer},
       year={2023},
       eprint={2302.12125},
       archivePrefix={arXiv},
       primaryClass={cs.CY},
-      abbr={CoDecFin@FC}
+      abbr={CoDecFin@FC},
+      arxiv={2302.12125},
+      abstract="Decentralized autonomous organizations (DAOs) are a recent innovation in organizational structures, which are already widely used in the blockchain ecosystem. We empirically study the on-chain governance systems of 21 DAOs and open source the live dataset. The DAOs we study are of various size and activity, and govern a wide range of protocols and services, such as decentralized exchanges, lending protocols, infrastructure projects and common goods funding. Our analysis unveils a high concentration of voting rights, a significant hidden monetary costs of on-chain governance systems, as well as a remarkably high amount of pointless governance activity.",
+      booktitle=	{The 4th Workshop on Coordination of Decentralized Finance (CoDecFin) 2023, Bol, Brač, Croatia}
 }
 
-@misc{heimbach2023defi,
+@InProceedings{heimbach2023defi,
       title={DeFi and NFTs Hinder Blockchain Scalability}, 
       author={Lioba Heimbach and Quentin Kniep and Yann Vonlanthen and Roger Wattenhofer},
       year={2023},
       eprint={2302.06708},
       archivePrefix={arXiv},
       primaryClass={cs.CR},
-      abbr={FC}
+      abbr={FC},
+      arxiv={2302.06708},
+      altmetric={true},
+      booktitle=	{Financial Cryptography and Data Security (FC), Bol, Brač, Croatia},
+      abstract={"Many classical blockchains are known to have an embarrassingly low transaction throughput, down to Bitcoin's notorious seven transactions per second limit.Various proposals and implementations for increasing throughput emerged in the first decade of blockchain research. But how much concurrency is possible? In their early days, blockchains were mostly used for simple transfers from user to user. More recently, however, decentralized finance (DeFi) and NFT marketplaces have completely changed what is happening on blockchains. Both are built using smart contracts and have gained significant popularity. Transactions on DeFi and NFT marketplaces often interact with the same smart contracts. We believe this development has transformed blockchain usage. In our work, we perform a historical analysis of Ethereum's transaction graph. We study how much interaction between transactions there was historically and how much there is now. We find that the rise of DeFi and NFT marketplaces has led to an increase in "centralization" in the transaction graph. More transactions are now interconnected: currently there are around 200 transactions per block with 4000 interdependencies between them. We further find that the parallelizability of Ethereum's current interconnected transaction workload is limited. A speedup exceeding a factor of five is currently unrealistic."}
 }
