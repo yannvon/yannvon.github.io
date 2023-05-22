@@ -16,17 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at the [Distributed Computing Group](https://disco.ethz.ch) of ETH Zurich. I am interested in theoretical and practical aspects of consensus protocols and state machine replication, as well as the various challenges that come with it. My main research direction focuses on scaling blockchains by reducing the use of consensus and through the enablement of parallisation. 
+I am a Ph.D. student at the [Distributed Computing Group](https://disco.ethz.ch) of ETH Zurich, where I am supervised by [Prof. Roger Wattenhofer](https://disco.ethz.ch/members/wroger). 
+My interests include the theoretical and practical aspects of distributed systems, blockchains and governance.
 
-On a higher level, I believe that we should focus on improving democracies by bringing them into the digital age. Of course, this brings dangers, which is the second focus of my research. I believe that the blockchain space and DAOs specifically can be seen as a precursor of what is to come. This is why I believe that there are important lessons that can be learned from these platforms. Finally, I believe that proof of personhood would enable a huge range of fantastic applications.
+Currently my research focuses on scaling State Machine Replication protocols by reducing their use of consensus and enabling parallelization at all protocol levels.
 
-In my free time I like to tend to my Garden, read about Biology and do a variety of sports.
+Next to building scalable decentralized systems, I am also interested in Digital Democracy. I believe that through the careful use of new advancements (LLMs, VAAs, Liquid Democracy, Quadratic Voting, …) decision-making can be significantly improved. Changes to governance processes also come with dangers, which I would like to quantify in my research. Within the blockchain space, I see DAOs as an indication of what is to come, and believe that important lessons can be learned from them.
 
+Finally, I am excited about the potential of Proof-of-Personhood and extending one-person-one vote into the digital realm. By re-designing decentralized systems from the ground up to include Sybil resistance, one could empower communities with potentially far-reaching economic and political consequences.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In my free time, I like to tend to my Garden and do a variety of sports.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
--->
