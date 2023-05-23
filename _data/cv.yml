@@ -22,18 +22,18 @@
         - Reasearch Assistant in <a href="https://people.epfl.ch/rachid.guerraoui/?lang=en"> Rachid Guerraoui</a>'s <a href="https://dcl.epfl.ch"> Distirbuted Computing Lab</a>.
         - Teaching Assistant for Computer Networks and Circuits and Systems II.
         - Team Lead at the <a href="https://epflrocketteam.ch"> EPFL Rocket Team</a> 2020.
-        - GPA 5.80/6.00
+        #- GPA 5.80/6.00
     - title: Exchange Year
       institution: McGill University, Montreal, Canada
       year: 2018
       description:
         - Teaching Assistant for the Scala Center's <a href="https://www.coursera.org/specializations/scala?#courses"> Functional Programming Courses</a> on Coursera.
-        - GPA 4.00/4.00 
+        #- GPA 4.00/4.00 
     - title: Bachelors Degree in Communications Systems
       institution: EPFL, Lausanne, Switzerland
       year: 2018
       description:
-        - GPA 5.65/6.00
+        #- GPA 5.65/6.00
 - title: Experience
   type: time_table
   contents:
