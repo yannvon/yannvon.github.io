@@ -25,5 +25,5 @@ Next to building scalable decentralized systems, I am also interested in Digital
 
 Finally, I am excited about the potential of Proof-of-Personhood and extending one-person-one vote into the digital realm. By re-designing decentralized systems from the ground up to include Sybil resistance, one could empower communities with potentially far-reaching economic and political consequences.
 
-In my free time, I like to tend to my Garden and do a variety of sports.
+In my free time, I like to tend to my garden and do a variety of sports.
 
