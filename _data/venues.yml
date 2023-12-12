@@ -1,18 +1,24 @@
-"FC":
+"FC 24":
+  url: https://fc24.ifca.ai/
+  color: "#e76f51"
+
+
+"CoDecFin@FC 24":
+  url: https://fc24.ifca.ai/codecfin/
+  color: "#f4a261"
+
+
+"FC 23":
   url: https://fc23.ifca.ai/
   color: "#e76f51"
 
-"CoDecFin@FC":
+"CoDecFin@FC 23":
   url: https://fc23.ifca.ai/codecfin/
   color: "#f4a261"
 
-"SSS":
+"SSS 22":
   url: sss2022.limos.fr/
   color: "#e9c46a"
 
 "arXiv":
   color: "#2a9d8f"
-
-
-"PhysRev":
-  url: https://journals.aps.org/
