@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-years: ["pre-print",2024,2023,2022,2020]
+years: [2024,2023,2022,2020] # "pre-print" could be added here.
 nav: true
 nav_order: 1
 ---
