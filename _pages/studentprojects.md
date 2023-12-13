@@ -13,7 +13,7 @@ nav_order: 4
 
 
  <!-- _pages/studentproject.md -->
-<div class="studentproject">
+<div class="studentprojects">
  {% bibliography -f papers --group_by semester%}
 
 </div>
