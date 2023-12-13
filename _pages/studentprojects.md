@@ -4,7 +4,7 @@ layout: page
 permalink: /studentprojects/
 title: student projects
 description: 
-nav: true
+nav: false
 nav_order: 4
 
 ---
