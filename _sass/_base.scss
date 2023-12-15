@@ -717,7 +717,7 @@ footer.sticky-bottom {
 
 // Student Projects
 
-.studenprojects {
+.studentprojects {
   margin-top: 2rem;
 
   h1 {
@@ -759,13 +759,13 @@ footer.sticky-bottom {
         max-width: 200px;
       }
 
-      .projecttype {
+      .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var(black);
           padding-left: 1rem;
           padding-right: 1rem;
 

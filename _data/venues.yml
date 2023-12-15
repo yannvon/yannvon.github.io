@@ -21,3 +21,27 @@
 
 "arXiv":
   color: "#2a9d8f"
+
+
+
+"master thesis":
+  color: "#264653"
+
+"bachelor thesis":
+  color: "#2a9d8f"
+
+"semester thesis":
+  color: "#2a9d8f"
+
+"group project":
+  color: "#f4a261"
+
+"internship":
+  color: "#e76f51"
+
+
+$yann-1: #264653;
+$yann-2: #2a9d8f;
+$yann-3: #e9c46a;
+$yann-4: #f4a261;
+$yann-5: #e76f51;

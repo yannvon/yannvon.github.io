@@ -21,7 +21,17 @@
             {%- endif -%}
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+            <abbr class="badge"> {{entry.abbr}}</abbr>
+          {%- endif -%}
+        {%- elsif entry.projecttype -%}
+          {%- if site.data.venues[entry.projecttype] -%}
+            {%- assign venue_style = nil -%}
+            {%- if site.data.venues[entry.projecttype].color != blank -%}
+              {%- assign venue_style = site.data.venues[entry.projecttype].color | prepend: 'style="background-color:' | append: '"' -%}
+            {%- endif -%}
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.projecttype].url}}">{{entry.projecttype}}</a></abbr>
+          {%- else -%}
+            <abbr class="badge">{{entry.projecttype}}</abbr>
           {%- endif -%}
         {%- endif -%}
         </div>
@@ -108,11 +118,13 @@
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
+        {% assign thesis = "thesis,mastersthesis,phdthesis,studentproject" | split: ','%}
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+        {%- elsif thesis contains entry.type -%}
+          {%- capture entrytype -%}<em>{{entry.info}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
         {%- else -%}
