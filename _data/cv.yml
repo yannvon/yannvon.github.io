@@ -20,7 +20,7 @@
       institution: EPFL, Lausanne, Switzerland
       year: 2021
       description:
-        - Reasearch Assistant in <a href="https://people.epfl.ch/rachid.guerraoui/?lang=en"> Rachid Guerraoui</a>'s <a href="https://dcl.epfl.ch"> Distirbuted Computing Lab</a>.
+        - Reasearch Assistant in <a href="https://people.epfl.ch/rachid.guerraoui/?lang=en"> Rachid Guerraoui</a>'s <a href="https://dcl.epfl.ch"> Distributed Computing Lab</a>.
         - Teaching Assistant for Computer Networks and Circuits and Systems II.
         - Team Lead at the <a href="https://epflrocketteam.ch"> EPFL Rocket Team</a> 2020.
         #- GPA 5.80/6.00
@@ -80,6 +80,21 @@
       items: 
         - University of Fribourg Best Matura Paper Award  
     
+- title: Professional Services
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Artifacts Evaluation Committee: CCS
+        - Invited Reviewer: PODC
+        - External Reviewer: AFT, S&P, SIGMETRICS 
+    - year: 2023
+      items: 
+        - External Reviewer: DSN, MOBICOM, OSDI, PODC
+    - year: 2022
+      items: 
+        - External Reviewer: ConsensusDay, EuroSys, FC
+   
 
 #- title: Academic Interests
 #  type: nested_list
