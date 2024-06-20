@@ -85,13 +85,13 @@
   contents:
     - title: Artifacts Evaluation Committee
       items: 
-        - ACM CCS (2024)
+        - [ACM CCS]() (2024)
     - title: Invited Reviewer
       items: 
-        - PODC (2024)
+        - [PODC]() (2024)
     - title: External Reviewer
       items: 
-        - IEE S&P (2025), AFT (2024), SIGMETRICS (2024), PODC (2023), MOBICOM (2023), OSDI (2023), ConsensusDay (2022), EuroSys (2022), FC (2022)
+        - [IEE S&P]() (2025), [AFT]() (2024), [SIGMETRICS]() (2024), PODC (2023), MOBICOM (2023), OSDI (2023), ConsensusDay (2022), EuroSys (2022), FC (2022)
    
 
 #- title: Academic Interests

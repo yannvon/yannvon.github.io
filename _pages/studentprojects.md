@@ -12,7 +12,7 @@ nav_order: 3
 <p> I always enjoy coming up with new student projects and seeing them through. Check out <a target="_blank" href="https://disco.ethz.ch/theses">our group's website</a> for available student projects or contact me with your own ideas. 
 
 
-<p> Project reports can be found <a target="_blank" href="https://disco.ethz.ch/members/yvonlanthen">on my personal page</a>. 
+<p> Project reports can be found on my <a target="_blank" href="https://disco.ethz.ch/members/yvonlanthen">university webpage</a>. 
 
  <!-- _pages/studentproject.md -->
 <div class="studentprojects">
