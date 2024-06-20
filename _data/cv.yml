@@ -81,19 +81,17 @@
         - University of Fribourg Best Matura Paper Award  
     
 - title: Professional Services
-  type: time_table
+  type: nested_list
   contents:
-    - year: 2024
+    - title: Artifacts Evaluation Committee
       items: 
-        - Artifacts Evaluation Committee: CCS
-        - Invited Reviewer: PODC
-        - External Reviewer: AFT, S&P, SIGMETRICS 
-    - year: 2023
+        - ACM CCS (2024)
+    - title: Invited Reviewer
       items: 
-        - External Reviewer: DSN, MOBICOM, OSDI, PODC
-    - year: 2022
+        - PODC (2024)
+    - title: External Reviewer
       items: 
-        - External Reviewer: ConsensusDay, EuroSys, FC
+        - IEE S&P (2025), AFT (2024), SIGMETRICS (2024), PODC (2023), MOBICOM (2023), OSDI (2023), ConsensusDay (2022), EuroSys (2022), FC (2022)
    
 
 #- title: Academic Interests
