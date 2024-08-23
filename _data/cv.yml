@@ -85,7 +85,8 @@
   contents:
     - title: Programm Committee
       items: 
-        - <a href="https://defi.security/">ACM CCS Workshop on Decentralized Finance and Security</a> (DeFi24), <a href="https://sibaft.com">Workshop on Scalability & Interoperability of Blockchains</a> (AFT SIB24)
+        - <a href="https://defi.security/">ACM CCS Workshop on Decentralized Finance and Security</a> (DeFi'24)
+        - <a href="https://sibaft.com">Workshop on Scalability & Interoperability of Blockchains</a> (AFT SIB'24)
     - title: Artifacts Evaluation Committee
       items: 
         - <a href="https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html">ACM CCS</a> (2024)
