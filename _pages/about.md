@@ -21,12 +21,12 @@ My interests include the theoretical and practical aspects of **distributed syst
 
 Currently my research focuses on building fast and scalable decentralized systems, by reducing the use of consensus and enabling parallelization at all protocol levels.
 
-I am also interested in **digital democracy**. I believe that through the careful use of new advancements such as LLMs, VAAs, Liquid Democracy, and Quadratic Voting, decision-making can be significantly improved. 
+I am also interested in **digital democracy**. Through the careful use of new advancements such as LLMs, VAAs, Liquid Democracy, and Quadratic Voting, decision-making can be significantly improved. 
 
 <!-- Changes to governance processes also come with dangers, which I would like to quantify in my research. Within the blockchain space, I see DAOs as an indication of what is to come, and believe that important lessons can be learned from them.
 -->
 
-I am also excited about the potential of **Proof-of-Personhood** and extending one-person-one vote into the digital realm. By re-designing decentralized systems from the ground up to include Sybil resistance, one could empower communities with potentially far-reaching economic and societal consequences.
+Finally I believe in the potential of **Proof-of-Personhood** and extending one-person-one vote into the digital realm. By re-designing decentralized systems from the ground up to include Sybil resistance, one could empower communities with potentially far-reaching economic and societal consequences.
 
 In my free time, I like to tend to my garden and do a variety of sports.
 

@@ -64,7 +64,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-  - year: 2024
+    - year: 2024
       items:
         - Ethereum Foundation Bug Bounty
     - year: 2023
