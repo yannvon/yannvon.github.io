@@ -21,7 +21,7 @@ My interests include the theoretical and practical aspects of **distributed syst
 
 More sepcifically, I am interested in building **fast and scalable decentralized systems**, for example by reducing the use of consensus and enabling parallelization at all protocol levels.
 
-I also enjoy digging into the **security** of existing systems, both at the network level (P2P discovery and gossiping), the consensus level, as well as the appliction level (DAOs, voting advice applications, etc.).
+I also enjoy digging into the **security** of existing systems, both at the network level, the consensus level, as well as the application level.
 
 
 <!-- I am also interested in **digital democracy**. Through the careful use of new advancements such as LLMs, VAAs, liquid democracy, and quadratic voting, decision-making can be significantly improved. 
@@ -29,7 +29,7 @@ I also enjoy digging into the **security** of existing systems, both at the netw
 <!-- Changes to governance processes also come with dangers, which I would like to quantify in my research. Within the blockchain space, I see DAOs as an indication of what is to come, and believe that important lessons can be learned from them.
 -->
 
-Finally, I believe in the potential of **proof-of-personhood** and extending one-person-one vote into the digital realm. By re-designing decentralized systems from the ground up to include Sybil resistance, one could empower communities with potentially far-reaching economic and societal consequences.
+Finally, I believe in the potential of proof-of-personhood and extending one-person-one vote into the digital realm. By re-designing decentralized systems from the ground up to include Sybil resistance, one could empower communities with potentially far-reaching economic and societal consequences.
 
 In my free time, I like to tend to my garden and do a variety of sports.
 
