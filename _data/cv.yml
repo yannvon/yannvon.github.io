@@ -64,6 +64,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+  - year: 2024
+      items:
+        - Ethereum Foundation Bug Bounty
     - year: 2023
       items:
         - Co-recipient of a SUI Academic Research Award (25'000\$)
@@ -83,10 +86,10 @@
 - title: Professional Services
   type: nested_list
   contents:
-    - title: Programm Committee
+    - title: Program Committee
       items: 
         - <a href="https://defi.security/">ACM CCS Workshop on Decentralized Finance and Security</a> (DeFi'24)
-        - <a href="https://sibaft.com">Workshop on Scalability & Interoperability of Blockchains</a> (AFT SIB'24)
+        - <a href="https://sibaft.com">Workshop on Scalability & Interoperability of Blockchains</a> (SIB'24)
     - title: Artifacts Evaluation Committee
       items: 
         - <a href="https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html">ACM CCS</a> (2024)
