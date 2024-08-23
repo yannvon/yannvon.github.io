@@ -38,6 +38,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Chainlink Labs
+      year: 2024
     - title: <a href="https://research.protocol.ai/authors/yann-vonlanthen/"> Summer Research Fellow</a>
       institution: ConsensusLab, Protocol Labs
       year: 2022
