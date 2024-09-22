@@ -70,6 +70,7 @@
     - year: 2024
       items:
         - Ethereum Foundation Bug Bounty
+        - Ethereum Research Grant (30'000\$)
     - year: 2023
       items:
         - Co-recipient of a SUI Academic Research Award (25'000\$)
@@ -91,6 +92,7 @@
   contents:
     - title: Program Committee
       items: 
+        - <a href="https://fc25.ifcai.ai/">Financial Cryptography</a> (FC'24)
         - <a href="https://defi.security/">ACM CCS Workshop on Decentralized Finance and Security</a> (DeFi'24)
         - <a href="https://sibaft.com">Workshop on Scalability & Interoperability of Blockchains</a> (SIB'24)
     - title: Artifacts Evaluation Committee
@@ -100,6 +102,20 @@
       items: 
         - <a href="https://www.ieee-security.org/TC/SP2025/">IEEE S&P</a> (2025), <a href="https://aftconf.github.io/aft24/index.html">AFT</a> (2024), <a href="https://www.podc.org/">PODC</a> (2024, 2023), <a href="https://www.sigmetrics.org/">SIGMETRICS</a> (2024), <a href="https://www.sigmobile.org/mobicom/2023/index.html">MOBICOM</a> (2023), <a href="https://www.usenix.org/conference/osdi23">OSDI</a>  (2023), <a href="https://research.protocol.ai/sites/consensusday22/programme/">ConsensusDay</a> (2022), <a href="https://2022.eurosys.org/">EuroSys</a> (2022), <a href="https://ifca.ai/">FC</a> (2022)
    
+
+# talks
+#
+# 1 dawo
+# 2 tum 
+# 3 sss / fc workshops / aft / other random workshop at beginning of phd
+#
+#
+#
+#
+#
+#
+#
+
 
 #- title: Academic Interests
 #  type: nested_list
