@@ -138,7 +138,6 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
-        {% if entry.info -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
@@ -146,7 +145,8 @@
           {{ entry.note | strip }}
         </div>
 
-        <!-- Hidden abstract block -->
+        <!-- Lioba addition: Hidden abstract block -->
+        {% if entry.info -%}
         <div >
           {{ entry.info }}
         </div>
