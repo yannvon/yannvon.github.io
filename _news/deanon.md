@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We received a bug bouny for our recent work analyzing the (lack of) privacy on Ethereum. The pre-print is now available.
+I presented our most recent work titled <a href="https://arxiv.org/abs/2409.04366">"Deanonymizing Ethreum Validators: The P2P Network Has a Privacy Issue"</a> at the <a href="https://conference.tum-blockchain.com/"> TUM Blockchain Conference</a>.
