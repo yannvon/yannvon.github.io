@@ -41,12 +41,11 @@
     - title: Research Internship
       institution: Chainlink Labs
       year: 2024
-    - title: <a href="https://research.protocol.ai/authors/yann-vonlanthen/"> Summer Research Fellow</a>
+    - title: <a href="https://research.protocol.ai/authors/yann-vonlanthen/">Research Internship</a>
       institution: ConsensusLab, Protocol Labs
       year: 2022
       description:
-        - Scaling Filecoin Blockchain By Executing Transactions Concurrently.
-        - Establishing Initial Benchmarks and PoC.
+        - Worked on a multi-threaded WASM virtual machine for Filecoin.
         - <a href="https://www.youtube.com/watch?v=nBE0UXF4fgs"> Presentation</a> at ConsensusLab Summit in Lisbon.
     - title: Machine Learning Internship
       institution: UPC, Zurich, Switzerland
