@@ -7,4 +7,4 @@ published: false
 
 ---
 
-Our paper <a href="https://arxiv.org/abs/2310.01028">"Short Paper: The PoW Landscape in the Aftermath of The Merge"</a> was accepted at the CoDecFin workshop at FC 2024.
+Our paper <a href="https://arxiv.org/abs/2310.01028">"Short Paper: The PoW Landscape in the Aftermath of The Merge"</a> was accepted at the CoDecFin workshop at FC'24.
