@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented our paper <a href="https://arxiv.org/abs/2312.05869v2">"Banyan: Fast Rotating Leader BFT"</a> at <a href="https://middleware-conf.github.io/2024/">Middleware'24</a>. It received the <a href="https://middleware-conf.github.io/2024/program/awards/">Best Paper Award</a>.
+I will be presenting our paper <a href="https://arxiv.org/abs/2312.05869v2">"Banyan: Fast Rotating Leader BFT"</a> at <a href="https://middleware-conf.github.io/2024/">Middleware'24</a>.

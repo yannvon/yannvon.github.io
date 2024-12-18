@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I am a fourth- and final-year Ph.D. student at the [Distributed Computing Group](https://disco.ethz.ch) at ETH Zurich, where I am advised by [Prof. Roger Wattenhofer](https://disco.ethz.ch/members/wroger). 
 My interests include the theoretical and practical aspects of **blockchains**, **distributed systems**, and **digital democracy**.
 
-More specifically, I aim to build **fast and scalable decentralized** systems — for instance by enabling parallelization across all protocol levels.
+More specifically, I aim to design and build **fast and scalable decentralized** systems — for instance by enabling parallelization across all protocol levels.
 
 I also enjoy exploring the **security** of existing systems, including network security, consensus mechanisms, and application-level security (DAOs, VAAs, etc.).
 
