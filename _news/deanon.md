@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented our most recent work titled <a href="https://arxiv.org/abs/2409.04366">"Deanonymizing Ethreum Validators: The P2P Network Has a Privacy Issue"</a> at the <a href="https://conference.tum-blockchain.com/"> TUM Blockchain Conference</a>.
+I presented our most recent work titled <a href="https://arxiv.org/abs/2409.04366">"Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue"</a> at the <a href="https://conference.tum-blockchain.com/"> TUM Blockchain Conference</a>.
