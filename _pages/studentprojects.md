@@ -3,7 +3,7 @@ layout: page
 permalink: /studentprojects/
 title: student projects
 description: 
-semesters: [on-going,2024,2023,2022,2021] # "pre-print" could be added here.
+semesters: [on-going,2025,2024,2023,2022] # "pre-print" could be added here.
 nav: true
 nav_order: 3
 
