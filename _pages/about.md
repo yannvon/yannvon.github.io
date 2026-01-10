@@ -6,7 +6,7 @@ subtitle: # <a href='https://disco.ethz.ch/members/yvonlanthen'>ETH Zurich</a>.
 
 profile:
   align: right
-  image: lecture.jpg
+  image: lecture_medium.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>  yvonlanthen@ethz.ch</p>
