@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a research scientist at the [Ethereum Foundation](https://ethereum.foundation/), where I work on the design and analysis of consensus protocols.
 
-Previously, I completed a Ph.D. thesis in distributed systems at the [Distributed Computing Group](https://disco.ethz.ch) at ETH Zurich, where I was advised by [Prof. Roger Wattenhofer](https://disco.ethz.ch/members/wroger).
+Previously, I completed my Ph.D. in distributed systems at the [Distributed Computing Group](https://disco.ethz.ch), where I was advised by [Prof. Roger Wattenhofer](https://disco.ethz.ch/members/wroger).
 
-My research interests center on building fast, scalable, and secure decentralized systems, spanning protocol design, performance, and real-world measurements. 
+My research interests center on building fast, scalable, and secure decentralized systems, spanning protocol design, performance analysis, and real-world measurements. 
 
 In my free time, I enjoy gardening and participating in a variety of sports.
 
