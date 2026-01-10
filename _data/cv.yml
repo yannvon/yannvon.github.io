@@ -5,39 +5,12 @@
       value: Yann Vonlanthen
     - name: Languages
       value: English, German, French
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Computer Science
-      institution: ETHZ, Zurich, Switzerland
-      year: 2021-
-      description:
-        - Supervised by <a href="https://disco.ethz.ch/members/wroger"> Roger Wattenhofer </a> at the <a href="https://disco.ethz.ch"> Distributed Computing Group</a>.
-        - Head Teaching Assistant of the <a href="https://disco.ethz.ch/courses/distsys"> Distributed Systems</a> Lecture.
-        - Supervision of Bachelor and Master <a href="https://disco.ethz.ch/members/yvonlanthen"> theses</a>.
-        - Other teaching roles include giving lectures (Eventual Consistency & Bitcoin, Distributed Storage), being a teaching assistant in other lectures offered by our group, as well as conducting, writing, and grading of exams.
-    - title: Masters Degree in Communication Systems
-      institution: EPFL, Lausanne, Switzerland
-      year: 2021
-      description:
-        - Reasearch Assistant in <a href="https://people.epfl.ch/rachid.guerraoui/?lang=en"> Rachid Guerraoui</a>'s <a href="https://dcl.epfl.ch"> Distributed Computing Lab</a>.
-        - Teaching Assistant for Computer Networks and Circuits and Systems II.
-        - Team Lead at the <a href="https://epflrocketteam.ch"> EPFL Rocket Team</a> 2020.
-        #- GPA 5.80/6.00
-    - title: Exchange Year
-      institution: McGill University, Montreal, Canada
-      year: 2018
-      description:
-        - Teaching Assistant for the Scala Center's <a href="https://www.coursera.org/specializations/scala?#courses"> Functional Programming Courses</a> on Coursera.
-        #- GPA 4.00/4.00 
-    - title: Bachelors Degree in Communication Systems
-      institution: EPFL, Lausanne, Switzerland
-      year: 2018
-      description:
-        #- GPA 5.65/6.00
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist
+      institution: Ethereum Foundation
+      year: 2025-present
     - title: Research Internship
       institution: Chainlink Labs
       year: 2024
@@ -62,7 +35,36 @@
 #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: ETHZ, Zurich, Switzerland
+      year: 2021-2025
+      description:
+        - Supervised by <a href="https://disco.ethz.ch/members/wroger"> Roger Wattenhofer </a> at the <a href="https://disco.ethz.ch"> Distributed Computing Group</a>.
+        - Head Teaching Assistant of the <a href="https://disco.ethz.ch/courses/distsys"> Distributed Systems</a> Lecture.
+        - Supervision of Bachelor and Master <a href="https://disco.ethz.ch/members/yvonlanthen"> theses</a>.
+        - Other teaching roles include giving lectures (Eventual Consistency & Bitcoin, Distributed Storage), being a teaching assistant in other lectures offered by our group, as well as conducting, writing, and grading of exams.
+    - title: Masters Degree in Communication Systems
+      institution: EPFL, Lausanne, Switzerland
+      year: 2021
+      description:
+        - Reasearch Assistant in <a href="https://people.epfl.ch/rachid.guerraoui/?lang=en"> Rachid Guerraoui</a>'s <a href="https://dcl.epfl.ch"> Distributed Computing Lab</a>.
+        - Teaching Assistant for Computer Networks and Circuits and Systems II.
+        - Team Lead at the <a href="https://epflrocketteam.ch"> EPFL Rocket Team</a> 2020.
+        #- GPA 5.80/6.00
+    - title: Exchange Year
+      institution: McGill University, Montreal, Canada
+      year: 2018
+      description:
+        - Teaching Assistant for the Scala Center's <a href="https://www.coursera.org/specializations/scala?#courses"> Functional Programming Courses</a> on Coursera.
+        #- GPA 4.00/4.00 
+    - title: Bachelors Degree in Communication Systems
+      institution: EPFL, Lausanne, Switzerland
+      year: 2018
+      description:
+        #- GPA 5.65/6.00
 - title: Honors and Awards
   type: time_table
   contents:
