@@ -1,3 +1,8 @@
+
+"SIGMETRICS 26":
+  url: https://www.sigmetrics.org/sigmetrics2026/
+  color: "#e9c46a"
+  
 "DISC 25":
   url: https://www.disc-conference.org/wp/disc2025/
   color: "#90be6d"
@@ -5,7 +10,7 @@
 "IJCAI 25":
   url: https://2025.ijcai.org/
   color: "#90be6d"
-  
+
 "USENIX Sec 25":
   url: https://www.usenix.org/conference/usenixsecurity25
   color: "#e9c46a"
