@@ -70,9 +70,10 @@
   contents:
     - year: 2024
       items:
-        - Ethereum Foundation Research Grant (30'000\$)
         - Best Paper Award at Middleware'24
-        - Ethereum Foundation Bug Bounty
+        - Distinguished Artifact Reviewer Award for ACM CCS'24
+        - Ethereum Foundation Research Grant (30'000\$)
+        - Awarded bug bounty by the Ethereum Foundation 
     - year: 2023
       items:
         - Co-recipient of a SUI Academic Research Award (25'000\$)
