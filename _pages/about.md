@@ -6,10 +6,10 @@ subtitle: # <a href='https://disco.ethz.ch/members/yvonlanthen'>ETH Zurich</a>.
 
 profile:
   align: right
-  image: lecture_medium.jpg
+  image: lecture_medium.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>  yvonlanthen@ethz.ch</p>
+    <p>  yann.vonlanthen@ethereum.org</p>
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
