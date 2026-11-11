@@ -34,4 +34,9 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
+        # Commit as the Actions bot instead of the pusher's account email,
+        # and keep gh-pages as a single commit so no old history is kept.
+        git-config-name: github-actions[bot]
+        git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+        single-commit: true
 
