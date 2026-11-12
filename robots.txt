@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yannvon.github.io/sitemap.xml
