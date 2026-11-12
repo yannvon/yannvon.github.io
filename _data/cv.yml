@@ -95,8 +95,8 @@
   contents:
     - year: 2026
       items:
-        - 'From 16 Minutes to Seconds: A Roadmap to Fast Finality on Ethereum — Devcon 8 (<a href="/assets/pdf/devcon26_fastfinality.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=dLe4uNzLpZ4">video</a>)'
-        - 'One-Round Finality — Fast Finality &amp; Decoupled Consensus Workshop, Cambridge (<a href="/assets/pdf/cambridge26_oneroundfinality.pdf">slides</a>)'
+        - 'From 16 Minutes to Seconds: A Roadmap to Fast Finality on Ethereum — Devcon 8 (<a href="/assets/slides/devcon26_fastfinality.html">slides</a>, <a href="https://www.youtube.com/watch?v=dLe4uNzLpZ4">video</a>)'
+        - 'One-Round Finality — Fast Finality &amp; Decoupled Consensus Workshop, Cambridge (<a href="/assets/slides/cambridge26_oneroundfinality.html">slides</a>)'
         - 'Ethereum Consensus: The Road to Faster Finality — EthCC[9] (<a href="/assets/pdf/fortmode26_fastfinality.pdf">slides</a>), ethereumzuri.ch (<a href="/assets/pdf/zuri26_fastfinality.pdf">slides</a>)'
         - 'Introduction to Ethereum Consensus, with Francesco D''Amato — Columbia–Ethereum Summer School on Blockchain Consensus (video: <a href="https://www.youtube.com/watch?v=6_EsGMv15_Q">part 1</a>, <a href="https://www.youtube.com/watch?v=VA_ukotktGc">part 2</a>)'
         - 'Majorum: Ebb-and-Flow Consensus with Dynamic Quorums — FC''26 (<a href="/assets/pdf/fc26_majorum.pdf">slides</a>)'

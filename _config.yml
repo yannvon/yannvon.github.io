@@ -240,7 +240,7 @@ defaults:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ['robots.txt']
+  exclude: ['robots.txt', 'assets/slides/*.html']
   uglifier_args:
     harmony: true
 
