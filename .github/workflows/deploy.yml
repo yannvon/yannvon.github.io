@@ -18,10 +18,13 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+    # Third-party actions are pinned to commit SHAs; Dependabot keeps them updated.
     - name: Checkout 🛎️
-      uses: actions/checkout@v5
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      with:
+        persist-credentials: false
     - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@b3aaceaef7e0ee231b499e7b5f49c03fc1d32199 # v1.338.0
       with:
         ruby-version: '3.2'
         bundler-cache: true
@@ -29,12 +32,6 @@ jobs:
       run: bundle exec jekyll build
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@fa24774553152dd7873cd16ebd8d959b010c5445 # v4.9.0
       with:
         folder: _site
-        # Commit as the Actions bot instead of the pusher's account email,
-        # and keep gh-pages as a single commit so no old history is kept.
-        git-config-name: github-actions[bot]
-        git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
-        single-commit: true
-
