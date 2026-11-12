@@ -83,6 +83,15 @@ $yann-5: #780000;
 
 
 
+// Solarized (https://ethanschoonover.com/solarized/), used for dark mode as in Ghostty
+$solarized-base03: #002b36;
+$solarized-base02: #073642;
+$solarized-base01: #586e75;
+$solarized-base1:  #93a1a1;
+$solarized-base2:  #eee8d5;
+$solarized-cyan:   lighten(#2aa198, 3%); // #2dada3, a touch brighter so links stay readable on cards
+
+
 // Theme colors
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
